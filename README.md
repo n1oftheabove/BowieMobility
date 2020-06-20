@@ -4,15 +4,17 @@ BowieMobility is a data analysis project aiming to gather data about battery ele
 
 ## Inital contributors
 
-github.com/AndyRadCat
-github.com/NicholasNino
-github.com/Silviu2020
-github.com/n1oftheabove
+Team "Bowie":
+
+* [github.com/AndyRadCat](https://github.com/AndyRadCat)
+* [github.com/NicholasNino](https://github.com/NicholasNino)
+* [github.com/Silviu2020](https://github.com/Silviu2020)
+* [github.com/n1oftheabove](https://github.com/n1oftheabove)
 
 ## Content
 
 * [The Data Sources](#the-data-sources)
-* [Research questions & possible insights](#research-questions-possible-insights)
+* [Research questions and possible insights](#research-questions-possible-insights)
 * [Workflow](#workflow)
 * [Usage](#usage)
 * [Contributing](#contributing)
@@ -28,7 +30,7 @@ github.com/n1oftheabove
 
 **dataset 3**: monthly data for all newly registered electric vehicles in Germany. These are [provided monthly](https://www.kba.de/DE/Statistik/Fahrzeuge/Neuzulassungen/MonatlicheNeuzulassungen/2020/202005_GImonatlich/202005_node.html) by the "Kraftfahrtbundesamt" as `.xlsx` and the values for monthly registered cars were extracted from one specific column in each file. This was automated since all the `.xlsx` are labeled in a consistent format regarding to the year and the month, for example `fz10_2020_05_xlsx.xlsx` for the month of May in 2020.
 
-## Research questions & possible insights
+## Research questions and possible insights
 
 The project intented to shed light on one or more of the following questions:
 

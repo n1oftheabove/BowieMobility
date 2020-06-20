@@ -2,6 +2,17 @@
 
 BowieMobility is a data analysis project aiming to gather data about battery electric vehicles (BEV) as well as charging points for them in Germany. In a next step, features of interest within these data are visualized by plotting a selection of these data.
 
+## Content
+
+* [Initial Contributors](#initial-contributors)
+* [The Data Sources](#the-data-sources)
+* [Research questions and possible insights](#research-questions-possible-insights)
+* [Workflow](#workflow)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [License](#license)
+* [Links](#Links)
+
 ## Inital contributors
 
 Team "Bowie":
@@ -10,16 +21,6 @@ Team "Bowie":
 * [github.com/NicholasNino](https://github.com/NicholasNino)
 * [github.com/Silviu2020](https://github.com/Silviu2020)
 * [github.com/n1oftheabove](https://github.com/n1oftheabove)
-
-## Content
-
-* [The Data Sources](#the-data-sources)
-* [Research questions and possible insights](#research-questions-possible-insights)
-* [Workflow](#workflow)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Links](#Links)
 
 
 ## The data sources

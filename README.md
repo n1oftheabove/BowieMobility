@@ -29,7 +29,7 @@ Team "Bowie":
 
 **dataset 2**, is a dataset for charging sessions that spans the past 30 days and is obtained via a standard [http-call API](https://mclouddocs.plugsurfing.com/calls/mfund/stations-data.html) which the Federal Government of Germany created together with the company [Plugsurfing](https://www.plugsurfing.com/home). Of this dataset, we make use of the partial usage of each electric vehicle model and plot this later to get an impression, which car model is charged most often.
 
-**dataset 3**: monthly data for all newly registered electric vehicles in Germany. These are [provided monthly](https://www.kba.de/DE/Statistik/Fahrzeuge/Neuzulassungen/MonatlicheNeuzulassungen/2020/202005_GImonatlich/202005_node.html) by the "Kraftfahrtbundesamt" as `.xlsx` and the values for monthly registered cars were extracted from one specific column in each file. This was automated since all the `.xlsx` are labeled in a consistent format regarding to the year and the month, for example `fz10_2020_05_xlsx.xlsx` for the month of May in 2020.
+**dataset 3**: yearly (2009-2018) data for all newly registered electric vehicles in Germany. These are [provided](https://www.kba.de/DE/Statistik/Fahrzeuge/Neuzulassungen/Umwelt/n_umwelt_z.html?nn=652326) by the "Kraftfahrtbundesamt" in form of an `.html`-table.
 
 ## Research questions and possible insights
 

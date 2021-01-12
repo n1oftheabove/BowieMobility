@@ -1,4 +1,4 @@
-# BowieMobility
+# BowieMobility -  
 
 BowieMobility is a data analysis project aiming to gather data about battery electric vehicles (BEV) as well as charging points for them in Germany. In a next step, features of interest within these data are visualized by plotting a selection of these data.
 
